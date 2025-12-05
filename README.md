@@ -1,1 +1,1 @@
-The goal is to predict changes in profitability with machine learning models. The used data and models can be found in this repository.
+This repository contains scripts and data, which I've used in my master's thesis. 
